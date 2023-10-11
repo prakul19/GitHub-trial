@@ -1,3 +1,3 @@
 # GitHub-trial
 This is my first git repository.
-Author - Prakul Agarwal
+Author - Prakul Agarwal (g-4)
